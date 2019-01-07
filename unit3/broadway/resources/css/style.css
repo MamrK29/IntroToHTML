@@ -1,0 +1,36 @@
+#navi p{
+  color: white;
+  font-size: 18px;
+}
+
+.heading, .subsection {
+  background-image: url("file:///C:/Users/Mohammad%20Amr%20Khan/Desktop/programming/IntroToHTML/unit3/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  background-size: auto;
+}
+
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#navi, .link{
+  color: white;
+  font-size: 18px;
+}
+
+.subsection{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+p{
+  font-size: 14px;
+}
+footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
